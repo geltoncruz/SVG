@@ -32,3 +32,11 @@ Antes de inicarmos o estudo isolado sobre SVG, é importante ressaltar a a neces
 * Polyline <polyline>
 * Polygon <polygon>
 * Path <path>
+
+## EXEMPLOS
+
+![Exemplo Svg](/Exemplos/exemplo01.SVG)  
+
+![Exemplo Svg](/Exemplos/icon_house.svg)  
+
+![Exemplo Svg](/Exemplos/icon_pc.svg)  
